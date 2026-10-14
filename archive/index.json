@@ -1,0 +1,132 @@
+{
+  "ACRV4_8E_BTHB_V2.0.0.250729_R1": {
+    "revisions": [
+      {
+        "archived_at": "2026-10-14T20:44:04Z",
+        "asset": "ACRV4_8E_BTHB_V2.0.0.250729_R1.zip",
+        "asset_url": "https://github.com/OpenIPC/herospeedupdates/releases/download/firmware-archive/ACRV4_8E_BTHB_V2.0.0.250729_R1.zip",
+        "last_modified": "Thu, 18 Sep 2025 01:59:22 GMT",
+        "sha256": "6a62eafeaa565f8b74b5ab70db1947ddb654889f56b60f8e7fd7d0940d8f34ab",
+        "size": 52790110,
+        "source_url": "https://www.herospeed.net/en/ver/IPC/RK/ACRV4_8E_BTHB_V2.0.0.250729_R1.zip"
+      }
+    ]
+  },
+  "BRL5_2ND_BVHB_V2.0.0.260415_R3": {
+    "revisions": [
+      {
+        "archived_at": "2026-10-14T20:44:11Z",
+        "asset": "BRL5_2ND_BVHB_V2.0.0.260415_R3.zip",
+        "asset_url": "https://github.com/OpenIPC/herospeedupdates/releases/download/firmware-archive/BRL5_2ND_BVHB_V2.0.0.260415_R3.zip",
+        "last_modified": "Mon, 01 Jun 2026 08:07:40 GMT",
+        "sha256": "c820de22a3cae96a1fb52abc389a8c079e732c187b8fb99e9135132c4fdce384",
+        "size": 55023874,
+        "source_url": "https://www.herospeed.net/en/ver/IPC/RK/BRL5_2ND_BVHB_V2.0.0.260415_R3.zip"
+      }
+    ]
+  },
+  "BRL8_2ND_BVHB_V2.0.0.260420_R2": {
+    "revisions": [
+      {
+        "archived_at": "2026-10-14T20:44:18Z",
+        "asset": "BRL8_2ND_BVHB_V2.0.0.260420_R2.zip",
+        "asset_url": "https://github.com/OpenIPC/herospeedupdates/releases/download/firmware-archive/BRL8_2ND_BVHB_V2.0.0.260420_R2.zip",
+        "last_modified": "Mon, 01 Jun 2026 08:06:32 GMT",
+        "sha256": "e9b8ad008a74da21309fb43525de8e397d246aaee6b0d4234d83a3587e834554",
+        "size": 54890548,
+        "source_url": "https://www.herospeed.net/en/ver/IPC/RK/BRL8_2ND_BVHB_V2.0.0.260420_R2.zip"
+      }
+    ]
+  },
+  "FC2H_8NR_BVHB_V1.0.0.260508_R3": {
+    "revisions": [
+      {
+        "archived_at": "2026-10-14T20:44:21Z",
+        "asset": "FC2H_8NR_BVHB_V1.0.0.260508_R3.zip",
+        "asset_url": "https://github.com/OpenIPC/herospeedupdates/releases/download/firmware-archive/FC2H_8NR_BVHB_V1.0.0.260508_R3.zip",
+        "last_modified": "Mon, 01 Jun 2026 06:04:30 GMT",
+        "sha256": "acb7b96affb7ae73662039993815e030ebbc8d04639070de5c517d5da87c5e60",
+        "size": 5046368,
+        "source_url": "https://www.herospeed.net/en/ver/IPC/Fuhan/FC2H_8NR_BVHB_V1.0.0.260508_R3.zip"
+      }
+    ]
+  },
+  "FC2_8NR_BVHB_V2.0.2.250902_R4": {
+    "revisions": [
+      {
+        "archived_at": "2026-10-14T20:44:25Z",
+        "asset": "FC2_8NR_BVHB_V2.0.2.250902_R4.zip",
+        "asset_url": "https://github.com/OpenIPC/herospeedupdates/releases/download/firmware-archive/FC2_8NR_BVHB_V2.0.2.250902_R4.zip",
+        "last_modified": "Thu, 18 Sep 2025 02:12:59 GMT",
+        "sha256": "89139b8fda71d65cf44ab990615c50362d555557e18c264a512ac9207d82f433",
+        "size": 4998511,
+        "source_url": "https://www.herospeed.net/en/ver/IPC/Fuhan/FC2_8NR_BVHB_V2.0.2.250902_R4.zip"
+      }
+    ]
+  },
+  "FC4H_8NR_BVHB_V1.0.0.260511_R3": {
+    "revisions": [
+      {
+        "archived_at": "2026-10-14T20:44:29Z",
+        "asset": "FC4H_8NR_BVHB_V1.0.0.260511_R3.zip",
+        "asset_url": "https://github.com/OpenIPC/herospeedupdates/releases/download/firmware-archive/FC4H_8NR_BVHB_V1.0.0.260511_R3.zip",
+        "last_modified": "Mon, 01 Jun 2026 06:03:30 GMT",
+        "sha256": "37addc462106f0b66025375f067a2b7eb1c86381577ca6db449b19a9cda3baef",
+        "size": 5042025,
+        "source_url": "https://www.herospeed.net/en/ver/IPC/Fuhan/FC4H_8NR_BVHB_V1.0.0.260511_R3.zip"
+      }
+    ]
+  },
+  "FC4_8NR_BVHB_V3.0.1.260203_R1": {
+    "revisions": [
+      {
+        "archived_at": "2026-10-14T20:44:32Z",
+        "asset": "FC4_8NR_BVHB_V3.0.1.260203_R1.zip",
+        "asset_url": "https://github.com/OpenIPC/herospeedupdates/releases/download/firmware-archive/FC4_8NR_BVHB_V3.0.1.260203_R1.zip",
+        "last_modified": "Wed, 25 Feb 2026 06:02:37 GMT",
+        "sha256": "479a968c306248e40b7a5d571432711cbdf69bd9fb0ae1a6d92c38506b6b7a3d",
+        "size": 4991278,
+        "source_url": "https://www.herospeed.net/en/ver/IPC/Fuhan/FC4_8NR_BVHB_V3.0.1.260203_R1.zip"
+      }
+    ]
+  },
+  "FC8_8NR_BVHB_V2.0.0.251013_R2": {
+    "revisions": [
+      {
+        "archived_at": "2026-10-14T20:44:36Z",
+        "asset": "FC8_8NR_BVHB_V2.0.0.251013_R2.zip",
+        "asset_url": "https://github.com/OpenIPC/herospeedupdates/releases/download/firmware-archive/FC8_8NR_BVHB_V2.0.0.251013_R2.zip",
+        "last_modified": "Mon, 10 Nov 2025 08:42:44 GMT",
+        "sha256": "b1f46511a42ff79e30036506114f1a482f360d0e2208a061b587e3c239202af9",
+        "size": 5000459,
+        "source_url": "https://www.herospeed.net/en/ver/IPC/Fuhan/FC8_8NR_BVHB_V2.0.0.251013_R2.zip"
+      }
+    ]
+  },
+  "FCV2H_16NR_BVHB_V1.0.0.260511_R4": {
+    "revisions": [
+      {
+        "archived_at": "2026-10-14T20:44:40Z",
+        "asset": "FCV2H_16NR_BVHB_V1.0.0.260511_R4.zip",
+        "asset_url": "https://github.com/OpenIPC/herospeedupdates/releases/download/firmware-archive/FCV2H_16NR_BVHB_V1.0.0.260511_R4.zip",
+        "last_modified": "Mon, 01 Jun 2026 06:05:00 GMT",
+        "sha256": "bca7cf72a79fb792a10cee7371b67225b01a256616ff683588ac1a042840d048",
+        "size": 11250192,
+        "source_url": "https://www.herospeed.net/en/ver/IPC/Fuhan/FCV2H_16NR_BVHB_V1.0.0.260511_R4.zip"
+      }
+    ]
+  },
+  "FCV2_16NR_BVHB_V2.0.1.260518_R1": {
+    "revisions": [
+      {
+        "archived_at": "2026-10-14T20:44:44Z",
+        "asset": "FCV2_16NR_BVHB_V2.0.1.260518_R1.zip",
+        "asset_url": "https://github.com/OpenIPC/herospeedupdates/releases/download/firmware-archive/FCV2_16NR_BVHB_V2.0.1.260518_R1.zip",
+        "last_modified": "Mon, 01 Jun 2026 06:03:39 GMT",
+        "sha256": "ce18eb4f590a5af20d8dd8a2606295ceb720349cae37a166ce733d5f92915648",
+        "size": 11008882,
+        "source_url": "https://www.herospeed.net/en/ver/IPC/Fuhan/FCV2_16NR_BVHB_V2.0.1.260518_R1.zip"
+      }
+    ]
+  }
+}
