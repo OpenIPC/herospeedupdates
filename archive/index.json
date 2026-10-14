@@ -518,5 +518,135 @@
         "source_url": "https://www.herospeed.net/en/ver/IPC/RK/RV1109_IMX307_BASE_W_25.1.29.4.zip"
       }
     ]
+  },
+  "RV1109_IMX335NAND_BASE_W_25.1.29.4": {
+    "revisions": [
+      {
+        "archived_at": "2026-10-14T20:47:18Z",
+        "asset": "RV1109_IMX335NAND_BASE_W_25.1.29.4.zip",
+        "asset_url": "https://github.com/OpenIPC/herospeedupdates/releases/download/firmware-archive/RV1109_IMX335NAND_BASE_W_25.1.29.4.zip",
+        "last_modified": "Thu, 18 Sep 2025 01:59:25 GMT",
+        "sha256": "c52baa6c175301fb1b0a85a4a1a6e2c3cd734cd9593e7480ac2f15cc7830c224",
+        "size": 49272495,
+        "source_url": "https://www.herospeed.net/en/ver/IPC/RK/RV1109_IMX335NAND_BASE_W_25.1.29.4.zip"
+      }
+    ]
+  },
+  "RV1109_IMX335_BASE_W_25.1.29.4": {
+    "revisions": [
+      {
+        "archived_at": "2026-10-14T20:47:23Z",
+        "asset": "RV1109_IMX335_BASE_W_25.1.29.4.zip",
+        "asset_url": "https://github.com/OpenIPC/herospeedupdates/releases/download/firmware-archive/RV1109_IMX335_BASE_W_25.1.29.4.zip",
+        "last_modified": "Thu, 18 Sep 2025 01:59:13 GMT",
+        "sha256": "f84b42abb0f75bbcba2c4a17fd06f3b27aa866c865e4bcaf2224754bf4dcfec7",
+        "size": 40416031,
+        "source_url": "https://www.herospeed.net/en/ver/IPC/RK/RV1109_IMX335_BASE_W_25.1.29.4.zip"
+      }
+    ]
+  },
+  "RV1126_IMX415_BASE_W_24.1.52.4": {
+    "revisions": [
+      {
+        "archived_at": "2026-10-14T20:47:29Z",
+        "asset": "RV1126_IMX415_BASE_W_24.1.52.4.zip",
+        "asset_url": "https://github.com/OpenIPC/herospeedupdates/releases/download/firmware-archive/RV1126_IMX415_BASE_W_24.1.52.4.zip",
+        "last_modified": "Mon, 03 Mar 2025 08:33:08 GMT",
+        "sha256": "cca09f20659f1d7a352a9b653a21e55322fe4d8d2a4f9fa3e492cece5b7f181d",
+        "size": 39485009,
+        "source_url": "https://www.herospeed.net/en/ver/IPC/RK/RV1126_IMX415_BASE_W_24.1.52.4.zip"
+      }
+    ]
+  },
+  "S2E66_IMX178_W_7.1.3.4": {
+    "revisions": [
+      {
+        "archived_at": "2026-10-14T20:47:33Z",
+        "asset": "S2E66_IMX178_W_7.1.3.4.zip",
+        "asset_url": "https://github.com/OpenIPC/herospeedupdates/releases/download/firmware-archive/S2E66_IMX178_W_7.1.3.4.zip",
+        "last_modified": "Sat, 21 Oct 2017 06:56:36 GMT",
+        "sha256": "8af96654bbc59bf7e7f8b9c88ae92b91dcf85922e938b472bf5c1cc17e72f318",
+        "size": 13522426,
+        "source_url": "https://www.herospeed.net/en/ver/IPC/Amba/S2E66_IMX178_W_7.1.3.4.zip"
+      }
+    ]
+  },
+  "S2L55M_OV4689_W_7.1.18.3": {
+    "revisions": [
+      {
+        "archived_at": "2026-10-14T20:47:37Z",
+        "asset": "S2L55M_OV4689_W_7.1.18.3.zip",
+        "asset_url": "https://github.com/OpenIPC/herospeedupdates/releases/download/firmware-archive/S2L55M_OV4689_W_7.1.18.3.zip",
+        "last_modified": "Sat, 21 Oct 2017 06:56:08 GMT",
+        "sha256": "b4a99b18574cd4bf6e28e758a201b84f6d965fbae8f06ef3e71fb2e296613c60",
+        "size": 11191834,
+        "source_url": "https://www.herospeed.net/en/ver/IPC/Amba/S2L55M_OV4689_W_7.1.18.3.zip"
+      }
+    ]
+  },
+  "SSC336Q_SC200AI_W_22.1.06.2": {
+    "revisions": [
+      {
+        "archived_at": "2026-10-14T20:47:42Z",
+        "asset": "SSC336Q_SC200AI_W_22.1.06.2.zip",
+        "asset_url": "https://github.com/OpenIPC/herospeedupdates/releases/download/firmware-archive/SSC336Q_SC200AI_W_22.1.06.2.zip",
+        "last_modified": "Sat, 02 Apr 2022 01:54:34 GMT",
+        "sha256": "84f6e17572b72469c6bbfafd1c9dd5ba8cf9b38a16b773a7ba9268a64cee5ffe",
+        "size": 26218437,
+        "source_url": "https://www.herospeed.net/en/ver/IPC/SigmaStar/SSC336Q_SC200AI_W_22.1.06.2.zip"
+      }
+    ]
+  },
+  "SSC338Q_SC500AI_W_22.1.43.1": {
+    "revisions": [
+      {
+        "archived_at": "2026-10-14T20:47:46Z",
+        "asset": "SSC338Q_SC500AI_W_22.1.43.1.zip",
+        "asset_url": "https://github.com/OpenIPC/herospeedupdates/releases/download/firmware-archive/SSC338Q_SC500AI_W_22.1.43.1.zip",
+        "last_modified": "Tue, 21 Feb 2023 09:37:46 GMT",
+        "sha256": "4e6f9ed4823e573b86a90ea93ace45a9cad29003a51393579a505a9b38c96ef3",
+        "size": 26665049,
+        "source_url": "https://www.herospeed.net/en/ver/IPC/SigmaStar/SSC338Q_SC500AI_W_22.1.43.1.zip"
+      }
+    ]
+  },
+  "SSC338Q_SC8238_W_22.1.45.4": {
+    "revisions": [
+      {
+        "archived_at": "2026-10-14T20:47:50Z",
+        "asset": "SSC338Q_SC8238_W_22.1.45.4.zip",
+        "asset_url": "https://github.com/OpenIPC/herospeedupdates/releases/download/firmware-archive/SSC338Q_SC8238_W_22.1.45.4.zip",
+        "last_modified": "Tue, 21 Feb 2023 09:30:58 GMT",
+        "sha256": "c85fdd377d2114321f002deaec6d27a127a8a040d0f533974fcbbbc7e419f640",
+        "size": 20465393,
+        "source_url": "https://www.herospeed.net/en/ver/IPC/SigmaStar/SSC338Q_SC8238_W_22.1.45.4.zip"
+      }
+    ]
+  },
+  "TL5_1ND_BVHB_V2.0.0.260417_R5": {
+    "revisions": [
+      {
+        "archived_at": "2026-10-14T20:47:55Z",
+        "asset": "TL5_1ND_BVHB_V2.0.0.260417_R5.zip",
+        "asset_url": "https://github.com/OpenIPC/herospeedupdates/releases/download/firmware-archive/TL5_1ND_BVHB_V2.0.0.260417_R5.zip",
+        "last_modified": "Mon, 01 Jun 2026 05:59:23 GMT",
+        "sha256": "ad81842161f934d8a9045a19c23893788a2d85bc24d2fda093ce6a06f95b9379",
+        "size": 23884046,
+        "source_url": "https://www.herospeed.net/en/ver/IPC/NOVATEK_IPC/TL5_1ND_BVHB_V2.0.0.260417_R5.zip"
+      }
+    ]
+  },
+  "TL8_1ND_BVHB_V2.0.1.260415_R1": {
+    "revisions": [
+      {
+        "archived_at": "2026-10-14T20:48:00Z",
+        "asset": "TL8_1ND_BVHB_V2.0.1.260415_R1.zip",
+        "asset_url": "https://github.com/OpenIPC/herospeedupdates/releases/download/firmware-archive/TL8_1ND_BVHB_V2.0.1.260415_R1.zip",
+        "last_modified": "Mon, 01 Jun 2026 06:01:59 GMT",
+        "sha256": "1e3a128d66b328e8a2010e7266fda8be195c1016ef133bd91f998b3665ee2362",
+        "size": 31885582,
+        "source_url": "https://www.herospeed.net/en/ver/IPC/NOVATEK_IPC/TL8_1ND_BVHB_V2.0.1.260415_R1.zip"
+      }
+    ]
   }
 }
