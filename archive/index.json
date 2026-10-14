@@ -128,5 +128,135 @@
         "source_url": "https://www.herospeed.net/en/ver/IPC/Fuhan/FCV2_16NR_BVHB_V2.0.1.260518_R1.zip"
       }
     ]
+  },
+  "FCV5_16NR_BVHB_V2.0.0.260106_R2": {
+    "revisions": [
+      {
+        "archived_at": "2026-10-14T20:44:49Z",
+        "asset": "FCV5_16NR_BVHB_V2.0.0.260106_R2.zip",
+        "asset_url": "https://github.com/OpenIPC/herospeedupdates/releases/download/firmware-archive/FCV5_16NR_BVHB_V2.0.0.260106_R2.zip",
+        "last_modified": "Tue, 20 Jan 2026 02:17:46 GMT",
+        "sha256": "b5e2d7e28a8943df633a6addc4ec0cb9c9eb5b93ad5cc7f33bb9a809e7c373a6",
+        "size": 11227811,
+        "source_url": "https://www.herospeed.net/en/ver/IPC/Fuhan/FCV5_16NR_BVHB_V2.0.0.260106_R2.zip"
+      }
+    ]
+  },
+  "FCV8_16NR_BVHB_V2.0.0.260106_R2": {
+    "revisions": [
+      {
+        "archived_at": "2026-10-14T20:44:53Z",
+        "asset": "FCV8_16NR_BVHB_V2.0.0.260106_R2.zip",
+        "asset_url": "https://github.com/OpenIPC/herospeedupdates/releases/download/firmware-archive/FCV8_16NR_BVHB_V2.0.0.260106_R2.zip",
+        "last_modified": "Tue, 20 Jan 2026 02:17:46 GMT",
+        "sha256": "e35160a00d513fe491625e54f00bd6e508fbbefc3674bcd12159568fdaca90ff",
+        "size": 11238698,
+        "source_url": "https://www.herospeed.net/en/ver/IPC/Fuhan/FCV8_16NR_BVHB_V2.0.0.260106_R2.zip"
+      }
+    ]
+  },
+  "FG4_16NR_BVHB_V2.0.4.260107_R3": {
+    "revisions": [
+      {
+        "archived_at": "2026-10-14T20:44:57Z",
+        "asset": "FG4_16NR_BVHB_V2.0.4.260107_R3.zip",
+        "asset_url": "https://github.com/OpenIPC/herospeedupdates/releases/download/firmware-archive/FG4_16NR_BVHB_V2.0.4.260107_R3.zip",
+        "last_modified": "Tue, 20 Jan 2026 02:17:44 GMT",
+        "sha256": "1b3834a0aba8f0d81c4deefafa44909481c8de5fa31b983a1e743bd656f9dd62",
+        "size": 12081931,
+        "source_url": "https://www.herospeed.net/en/ver/IPC/Fuhan/FG4_16NR_BVHB_V2.0.4.260107_R3.zip"
+      }
+    ]
+  },
+  "FH8830_AR0330_FISHEYE_BD_W_9.1.2.1": {
+    "revisions": [
+      {
+        "archived_at": "2026-10-14T20:45:01Z",
+        "asset": "FH8830_AR0330_FISHEYE_BD_W_9.1.2.1.zip",
+        "asset_url": "https://github.com/OpenIPC/herospeedupdates/releases/download/firmware-archive/FH8830_AR0330_FISHEYE_BD_W_9.1.2.1.zip",
+        "last_modified": "Wed, 09 Jan 2019 03:22:38 GMT",
+        "sha256": "1e63fe4ca5754436f9f4fe029e5521bd761dbe0defece7c280cbf0fa7af2c246",
+        "size": 12657153,
+        "source_url": "https://www.herospeed.net/en/ver/IPC/Fuhan/FH8830_AR0330_FISHEYE_BD_W_9.1.2.1.zip"
+      }
+    ]
+  },
+  "FH8830_F22_W_8.1.11.5": {
+    "revisions": [
+      {
+        "archived_at": "2026-10-14T20:45:05Z",
+        "asset": "FH8830_F22_W_8.1.11.5.zip",
+        "asset_url": "https://github.com/OpenIPC/herospeedupdates/releases/download/firmware-archive/FH8830_F22_W_8.1.11.5.zip",
+        "last_modified": "Thu, 19 Apr 2018 07:51:43 GMT",
+        "sha256": "e313be4234657c13f282e85ed479c8f923c2ef4f4fa687bcfb91940ff99696b6",
+        "size": 10686846,
+        "source_url": "https://www.herospeed.net/en/ver/IPC/Fuhan/FH8830_F22_W_8.1.11.5.zip"
+      }
+    ]
+  },
+  "FH8852_F23_BASE_BD_W_21.1.26.6": {
+    "revisions": [
+      {
+        "archived_at": "2026-10-14T20:45:09Z",
+        "asset": "FH8852_F23_BASE_BD_W_21.1.26.6.zip",
+        "asset_url": "https://github.com/OpenIPC/herospeedupdates/releases/download/firmware-archive/FH8852_F23_BASE_BD_W_21.1.26.6.zip",
+        "last_modified": "Wed, 07 Jul 2021 01:59:10 GMT",
+        "sha256": "79ff6411f422967c93445ae0b36b6a05ff6b4f6e069df987614fe210507f48fa",
+        "size": 7047257,
+        "source_url": "https://www.herospeed.net/en/ver/IPC/Fuhan/FH8852_F23_BASE_BD_W_21.1.26.6.zip"
+      }
+    ]
+  },
+  "FH8852_IMX307_BASE_AL_W_20.1.29.3": {
+    "revisions": [
+      {
+        "archived_at": "2026-10-14T20:45:13Z",
+        "asset": "FH8852_IMX307_BASE_AL_W_20.1.29.3.zip",
+        "asset_url": "https://github.com/OpenIPC/herospeedupdates/releases/download/firmware-archive/FH8852_IMX307_BASE_AL_W_20.1.29.3.zip",
+        "last_modified": "Fri, 07 Aug 2020 07:38:06 GMT",
+        "sha256": "c3ef06dd8f7b66d7164ec979121432ef4aba8a3e3e0dcf982b5bf0fd8f6ff5cc",
+        "size": 6861271,
+        "source_url": "https://www.herospeed.net/en/ver/IPC/Fuhan/FH8852_IMX307_BASE_AL_W_20.1.29.3.zip"
+      }
+    ]
+  },
+  "FH8856_IMX335_BASE_BD_W_21.1.26.4": {
+    "revisions": [
+      {
+        "archived_at": "2026-10-14T20:45:17Z",
+        "asset": "FH8856_IMX335_BASE_BD_W_21.1.26.4.zip",
+        "asset_url": "https://github.com/OpenIPC/herospeedupdates/releases/download/firmware-archive/FH8856_IMX335_BASE_BD_W_21.1.26.4.zip",
+        "last_modified": "Wed, 07 Jul 2021 02:04:20 GMT",
+        "sha256": "c14eb254c54564c4915d6bcfa5cf5f9c70a9442c3a89fd235e784c6f7e437d81",
+        "size": 8154487,
+        "source_url": "https://www.herospeed.net/en/ver/IPC/Fuhan/FH8856_IMX335_BASE_BD_W_21.1.26.4.zip"
+      }
+    ]
+  },
+  "FH8856_K05_BASE_BD_W_21.1.26.1": {
+    "revisions": [
+      {
+        "archived_at": "2026-10-14T20:45:20Z",
+        "asset": "FH8856_K05_BASE_BD_W_21.1.26.1.zip",
+        "asset_url": "https://github.com/OpenIPC/herospeedupdates/releases/download/firmware-archive/FH8856_K05_BASE_BD_W_21.1.26.1.zip",
+        "last_modified": "Wed, 07 Jul 2021 02:07:20 GMT",
+        "sha256": "499d920d8da0e176c950091e8fd88f233eb5ea88f633aed368223526231a29a4",
+        "size": 8757918,
+        "source_url": "https://www.herospeed.net/en/ver/IPC/Fuhan/FH8856_K05_BASE_BD_W_21.1.26.1.zip"
+      }
+    ]
+  },
+  "FH8856_K05_WIFI_BD_W_21.1.51.1": {
+    "revisions": [
+      {
+        "archived_at": "2026-10-14T20:45:24Z",
+        "asset": "FH8856_K05_WIFI_BD_W_21.1.51.1.zip",
+        "asset_url": "https://github.com/OpenIPC/herospeedupdates/releases/download/firmware-archive/FH8856_K05_WIFI_BD_W_21.1.51.1.zip",
+        "last_modified": "Thu, 20 Jan 2022 09:38:28 GMT",
+        "sha256": "644e3270e0a2170dd72a42f1f2bf771f8420ccc9516349bcc519425b2a6c39d4",
+        "size": 7859255,
+        "source_url": "https://www.herospeed.net/en/ver/IPC/Fuhan/FH8856_K05_WIFI_BD_W_21.1.51.1.zip"
+      }
+    ]
   }
 }
