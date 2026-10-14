@@ -388,5 +388,135 @@
         "source_url": "https://www.herospeed.net/en/ver/IPC/NOVATEK_IPC/KS16_1ND_BVHB_V1.0.0.260411_R5.zip"
       }
     ]
+  },
+  "KS8_1ND_BVHB_V2.0.0.260410_R5": {
+    "revisions": [
+      {
+        "archived_at": "2026-10-14T20:46:16Z",
+        "asset": "KS8_1ND_BVHB_V2.0.0.260410_R5.zip",
+        "asset_url": "https://github.com/OpenIPC/herospeedupdates/releases/download/firmware-archive/KS8_1ND_BVHB_V2.0.0.260410_R5.zip",
+        "last_modified": "Mon, 01 Jun 2026 05:42:14 GMT",
+        "sha256": "7d151a28515e723f47c436c273f4e46fb93d0ef8d83b16aea54d54707798d7c7",
+        "size": 48970698,
+        "source_url": "https://www.herospeed.net/en/ver/IPC/NOVATEK_IPC/KS8_1ND_BVHB_V2.0.0.260410_R5.zip"
+      }
+    ]
+  },
+  "NL4_2ND_BVHB_V2.0.0.260530_R2": {
+    "revisions": [
+      {
+        "archived_at": "2026-10-14T20:46:22Z",
+        "asset": "NL4_2ND_BVHB_V2.0.0.260530_R2.zip",
+        "asset_url": "https://github.com/OpenIPC/herospeedupdates/releases/download/firmware-archive/NL4_2ND_BVHB_V2.0.0.260530_R2.zip",
+        "last_modified": "Mon, 01 Jun 2026 05:48:29 GMT",
+        "sha256": "4c5deaeef9abcfced66e1389899dcd5624e423f73ecfc7d4bdb34b5f475ccb62",
+        "size": 43423503,
+        "source_url": "https://www.herospeed.net/en/ver/IPC/NOVATEK_IPC/NL4_2ND_BVHB_V2.0.0.260530_R2.zip"
+      }
+    ]
+  },
+  "NP12_2ND_BVHB_V2.0.0.260526_R2": {
+    "revisions": [
+      {
+        "archived_at": "2026-10-14T20:46:28Z",
+        "asset": "NP12_2ND_BVHB_V2.0.0.260526_R2.zip",
+        "asset_url": "https://github.com/OpenIPC/herospeedupdates/releases/download/firmware-archive/NP12_2ND_BVHB_V2.0.0.260526_R2.zip",
+        "last_modified": "Mon, 01 Jun 2026 05:57:47 GMT",
+        "sha256": "18a626545c2e8138804d92d1a24ad80cc4dd45d954af72fc3212cffbb640fe85",
+        "size": 49624315,
+        "source_url": "https://www.herospeed.net/en/ver/IPC/NOVATEK_IPC/NP12_2ND_BVHB_V2.0.0.260526_R2.zip"
+      }
+    ]
+  },
+  "NP4_2ND_BVHB_V2.0.0.260521_R3": {
+    "revisions": [
+      {
+        "archived_at": "2026-10-14T20:46:33Z",
+        "asset": "NP4_2ND_BVHB_V2.0.0.260521_R3.zip",
+        "asset_url": "https://github.com/OpenIPC/herospeedupdates/releases/download/firmware-archive/NP4_2ND_BVHB_V2.0.0.260521_R3.zip",
+        "last_modified": "Mon, 01 Jun 2026 05:51:35 GMT",
+        "sha256": "696dfd89242669f909c2d7d2cb0c803efc30164f42de31a811ab8cb81a0eabc4",
+        "size": 49529787,
+        "source_url": "https://www.herospeed.net/en/ver/IPC/NOVATEK_IPC/NP4_2ND_BVHB_V2.0.0.260521_R3.zip"
+      }
+    ]
+  },
+  "NP8_2ND_BVHB_V2.0.0.260516_R8": {
+    "revisions": [
+      {
+        "archived_at": "2026-10-14T20:46:42Z",
+        "asset": "NP8_2ND_BVHB_V2.0.0.260516_R8.zip",
+        "asset_url": "https://github.com/OpenIPC/herospeedupdates/releases/download/firmware-archive/NP8_2ND_BVHB_V2.0.0.260516_R8.zip",
+        "last_modified": "Mon, 01 Jun 2026 05:56:01 GMT",
+        "sha256": "0e15dcb403a69e11e47348bca3d6688241f2cd0359e1511fc06b474f11ff573f",
+        "size": 49448698,
+        "source_url": "https://www.herospeed.net/en/ver/IPC/NOVATEK_IPC/NP8_2ND_BVHB_V2.0.0.260516_R8.zip"
+      }
+    ]
+  },
+  "RL4_8E_BTHB_V2.1.0.251222_R1": {
+    "revisions": [
+      {
+        "archived_at": "2026-10-14T20:46:47Z",
+        "asset": "RL4_8E_BTHB_V2.1.0.251222_R1.zip",
+        "asset_url": "https://github.com/OpenIPC/herospeedupdates/releases/download/firmware-archive/RL4_8E_BTHB_V2.1.0.251222_R1.zip",
+        "last_modified": "Tue, 20 Jan 2026 03:12:32 GMT",
+        "sha256": "0e38fdbd25d709a614533a3ffe2605aed57bc9c74e28b2c4026fb62a7eb700a1",
+        "size": 52986832,
+        "source_url": "https://www.herospeed.net/en/ver/IPC/RK/RL4_8E_BTHB_V2.1.0.251222_R1.zip"
+      }
+    ]
+  },
+  "RL8_8E_BTHB_V2.1.0.260406_R1": {
+    "revisions": [
+      {
+        "archived_at": "2026-10-14T20:46:53Z",
+        "asset": "RL8_8E_BTHB_V2.1.0.260406_R1.zip",
+        "asset_url": "https://github.com/OpenIPC/herospeedupdates/releases/download/firmware-archive/RL8_8E_BTHB_V2.1.0.260406_R1.zip",
+        "last_modified": "Mon, 01 Jun 2026 08:37:21 GMT",
+        "sha256": "2d39e27fdb4615db7f6c7afbe504bb632ea195eee924f38bdcba1716111f0630",
+        "size": 52643870,
+        "source_url": "https://www.herospeed.net/en/ver/IPC/RK/RL8_8E_BTHB_V2.1.0.260406_R1.zip"
+      }
+    ]
+  },
+  "RP4_8E_BTHB_V2.0.5.240612_R2": {
+    "revisions": [
+      {
+        "archived_at": "2026-10-14T20:46:58Z",
+        "asset": "RP4_8E_BTHB_V2.0.5.240612_R2.zip",
+        "asset_url": "https://github.com/OpenIPC/herospeedupdates/releases/download/firmware-archive/RP4_8E_BTHB_V2.0.5.240612_R2.zip",
+        "last_modified": "Wed, 17 Jul 2024 08:48:10 GMT",
+        "sha256": "4bce4e4cd5ef7d90ab1f0a2bd2b28bf8ca5f48fb8a9d8c5c6f3a764f79fc3051",
+        "size": 38369901,
+        "source_url": "https://www.herospeed.net/en/ver/IPC/RK/RP4_8E_BTHB_V2.0.5.240612_R2.zip"
+      }
+    ]
+  },
+  "RV1109_IMX307NAND_BASE_W_25.1.29.4": {
+    "revisions": [
+      {
+        "archived_at": "2026-10-14T20:47:04Z",
+        "asset": "RV1109_IMX307NAND_BASE_W_25.1.29.4.zip",
+        "asset_url": "https://github.com/OpenIPC/herospeedupdates/releases/download/firmware-archive/RV1109_IMX307NAND_BASE_W_25.1.29.4.zip",
+        "last_modified": "Thu, 18 Sep 2025 01:59:07 GMT",
+        "sha256": "bebc8e40d40ff57a91e03358c45edeb82dbada4767555f977f14bfc785b3e502",
+        "size": 49010128,
+        "source_url": "https://www.herospeed.net/en/ver/IPC/RK/RV1109_IMX307NAND_BASE_W_25.1.29.4.zip"
+      }
+    ]
+  },
+  "RV1109_IMX307_BASE_W_25.1.29.4": {
+    "revisions": [
+      {
+        "archived_at": "2026-10-14T20:47:10Z",
+        "asset": "RV1109_IMX307_BASE_W_25.1.29.4.zip",
+        "asset_url": "https://github.com/OpenIPC/herospeedupdates/releases/download/firmware-archive/RV1109_IMX307_BASE_W_25.1.29.4.zip",
+        "last_modified": "Thu, 18 Sep 2025 01:59:00 GMT",
+        "sha256": "928ef9da4fd3bdabc297c7430f9ccd8b4db72607b16bbc1f48e47f4cb861052f",
+        "size": 38989990,
+        "source_url": "https://www.herospeed.net/en/ver/IPC/RK/RV1109_IMX307_BASE_W_25.1.29.4.zip"
+      }
+    ]
   }
 }
