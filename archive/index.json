@@ -831,6 +831,19 @@
       }
     ]
   },
+  "NP4_2ND_BVHB_V4.0.0.260911_R2": {
+    "revisions": [
+      {
+        "archived_at": "2026-10-19T10:49:37Z",
+        "asset": "NP4_2ND_BVHB_V4.0.0.260911_R2.zip",
+        "asset_url": "https://github.com/OpenIPC/herospeedupdates/releases/download/firmware-archive/NP4_2ND_BVHB_V4.0.0.260911_R2.zip",
+        "last_modified": "Thu, 15 Oct 2026 10:04:26 GMT",
+        "sha256": "a9a5b06d1975aa334a391cef8f01c0f48a21dee226ed3d5cb3b0d28aafd49e97",
+        "size": 51012416,
+        "source_url": "https://www.herospeed.net/en/ver/IPC/NOVATEK_IPC/NP4_2ND_BVHB_V4.0.0.260911_R2.zip"
+      }
+    ]
+  },
   "NP8_2ND_BVHB_V2.0.0.260516_R8": {
     "revisions": [
       {
@@ -841,6 +854,45 @@
         "sha256": "0e15dcb403a69e11e47348bca3d6688241f2cd0359e1511fc06b474f11ff573f",
         "size": 49448698,
         "source_url": "https://www.herospeed.net/en/ver/IPC/NOVATEK_IPC/NP8_2ND_BVHB_V2.0.0.260516_R8.zip"
+      }
+    ]
+  },
+  "NP8_2ND_BVHB_V4.0.0.260918_R2": {
+    "revisions": [
+      {
+        "archived_at": "2026-10-19T10:49:43Z",
+        "asset": "NP8_2ND_BVHB_V4.0.0.260918_R2.zip",
+        "asset_url": "https://github.com/OpenIPC/herospeedupdates/releases/download/firmware-archive/NP8_2ND_BVHB_V4.0.0.260918_R2.zip",
+        "last_modified": "Thu, 15 Oct 2026 10:17:03 GMT",
+        "sha256": "3c06407364f720e7a957d2020e7427b6e947305a7ac70b21fa997295ff356e6d",
+        "size": 50977905,
+        "source_url": "https://www.herospeed.net/en/ver/IPC/NOVATEK_IPC/NP8_2ND_BVHB_V4.0.0.260918_R2.zip"
+      }
+    ]
+  },
+  "RC2_16NR_BVHB_V3.1.1.260915_R1": {
+    "revisions": [
+      {
+        "archived_at": "2026-10-19T10:49:47Z",
+        "asset": "RC2_16NR_BVHB_V3.1.1.260915_R1.zip",
+        "asset_url": "https://github.com/OpenIPC/herospeedupdates/releases/download/firmware-archive/RC2_16NR_BVHB_V3.1.1.260915_R1.zip",
+        "last_modified": "Thu, 15 Oct 2026 11:02:37 GMT",
+        "sha256": "7fe87148870f642133cf067c1edbf151636e87104641f55841ec2a5e47ac5664",
+        "size": 12189472,
+        "source_url": "https://www.herospeed.net/en/ver/IPC/RK/RC2_16NR_BVHB_V3.1.1.260915_R1.zip"
+      }
+    ]
+  },
+  "RC4_16NR_BVHB_V3.1.1.260915_R1": {
+    "revisions": [
+      {
+        "archived_at": "2026-10-19T10:49:51Z",
+        "asset": "RC4_16NR_BVHB_V3.1.1.260915_R1.zip",
+        "asset_url": "https://github.com/OpenIPC/herospeedupdates/releases/download/firmware-archive/RC4_16NR_BVHB_V3.1.1.260915_R1.zip",
+        "last_modified": "Thu, 15 Oct 2026 11:02:29 GMT",
+        "sha256": "7982aa3c0ef73248ab2c13b55cd3c37127e42846f5cb92944921e6844c0e214a",
+        "size": 12190795,
+        "source_url": "https://www.herospeed.net/en/ver/IPC/RK/RC4_16NR_BVHB_V3.1.1.260915_R1.zip"
       }
     ]
   },
@@ -1026,6 +1078,32 @@
       }
     ]
   },
+  "TL5_1ND_BVHB_V3.1.0.260918_R1": {
+    "revisions": [
+      {
+        "archived_at": "2026-10-19T10:50:02Z",
+        "asset": "TL5_1ND_BVHB_V3.1.0.260918_R1.zip",
+        "asset_url": "https://github.com/OpenIPC/herospeedupdates/releases/download/firmware-archive/TL5_1ND_BVHB_V3.1.0.260918_R1.zip",
+        "last_modified": "Thu, 15 Oct 2026 10:24:24 GMT",
+        "sha256": "20a8944269fe17eaac93313e337d3e6c6b442d6a840adaaaf0cfc15c02358934",
+        "size": 22297973,
+        "source_url": "https://www.herospeed.net/en/ver/IPC/NOVATEK_IPC/TL5_1ND_BVHB_V3.1.0.260918_R1.zip"
+      }
+    ]
+  },
+  "TL5_32NR_BVHB_V4.0.0.260827_R6": {
+    "revisions": [
+      {
+        "archived_at": "2026-10-19T10:50:06Z",
+        "asset": "TL5_32NR_BVHB_V4.0.0.260827_R6.zip",
+        "asset_url": "https://github.com/OpenIPC/herospeedupdates/releases/download/firmware-archive/TL5_32NR_BVHB_V4.0.0.260827_R6.zip",
+        "last_modified": "Sat, 17 Oct 2026 07:19:59 GMT",
+        "sha256": "8a6688cc4e4f8655e54a4ef2914afd70b5cc449354367410c31c633f0afab29d",
+        "size": 17107003,
+        "source_url": "https://www.herospeed.net/en/ver/IPC/NOVATEK_IPC/TL5_32NR_BVHB_V4.0.0.260827_R6.zip"
+      }
+    ]
+  },
   "TL8_1ND_BVHB_V2.0.1.260415_R1": {
     "revisions": [
       {
@@ -1036,6 +1114,58 @@
         "sha256": "1e3a128d66b328e8a2010e7266fda8be195c1016ef133bd91f998b3665ee2362",
         "size": 31885582,
         "source_url": "https://www.herospeed.net/en/ver/IPC/NOVATEK_IPC/TL8_1ND_BVHB_V2.0.1.260415_R1.zip"
+      }
+    ]
+  },
+  "TL8_1ND_BVHB_V3.1.1.260911_R1": {
+    "revisions": [
+      {
+        "archived_at": "2026-10-19T10:50:11Z",
+        "asset": "TL8_1ND_BVHB_V3.1.1.260911_R1.zip",
+        "asset_url": "https://github.com/OpenIPC/herospeedupdates/releases/download/firmware-archive/TL8_1ND_BVHB_V3.1.1.260911_R1.zip",
+        "last_modified": "Thu, 15 Oct 2026 10:26:20 GMT",
+        "sha256": "c091a06de77845720f5941a686162e679d84acf4d4535965d1928f79501a157d",
+        "size": 30801760,
+        "source_url": "https://www.herospeed.net/en/ver/IPC/NOVATEK_IPC/TL8_1ND_BVHB_V3.1.1.260911_R1.zip"
+      }
+    ]
+  },
+  "TL8_32NR_BVHB_V4.0.1.261013_R1": {
+    "revisions": [
+      {
+        "archived_at": "2026-10-19T10:50:16Z",
+        "asset": "TL8_32NR_BVHB_V4.0.1.261013_R1.zip",
+        "asset_url": "https://github.com/OpenIPC/herospeedupdates/releases/download/firmware-archive/TL8_32NR_BVHB_V4.0.1.261013_R1.zip",
+        "last_modified": "Thu, 15 Oct 2026 10:31:54 GMT",
+        "sha256": "882ccaf3fea26b600cb2d25574e11dfdf46cb99751e2193aa86c94a64a377a49",
+        "size": 22729502,
+        "source_url": "https://www.herospeed.net/en/ver/IPC/NOVATEK_IPC/TL8_32NR_BVHB_V4.0.1.261013_R1.zip"
+      }
+    ]
+  },
+  "TS8_32NR_BVHB_V3.1.0.260910_R5": {
+    "revisions": [
+      {
+        "archived_at": "2026-10-19T10:50:20Z",
+        "asset": "TS8_32NR_BVHB_V3.1.0.260910_R5.zip",
+        "asset_url": "https://github.com/OpenIPC/herospeedupdates/releases/download/firmware-archive/TS8_32NR_BVHB_V3.1.0.260910_R5.zip",
+        "last_modified": "Thu, 15 Oct 2026 10:30:52 GMT",
+        "sha256": "aaa71b562c18f123931e2dd9574ad9a446ef3ea84c05759a5f2282f214938cf8",
+        "size": 18419123,
+        "source_url": "https://www.herospeed.net/en/ver/IPC/NOVATEK_IPC/TS8_32NR_BVHB_V3.1.0.260910_R5.zip"
+      }
+    ]
+  },
+  "TV12_32NR_BVHB_V4.0.0.260907_R2": {
+    "revisions": [
+      {
+        "archived_at": "2026-10-19T10:50:25Z",
+        "asset": "TV12_32NR_BVHB_V4.0.0.260907_R2.zip",
+        "asset_url": "https://github.com/OpenIPC/herospeedupdates/releases/download/firmware-archive/TV12_32NR_BVHB_V4.0.0.260907_R2.zip",
+        "last_modified": "Thu, 15 Oct 2026 10:41:26 GMT",
+        "sha256": "f515f17571677b1fabf418a458346198c0e149831d84244dc27b6a047408983c",
+        "size": 23008401,
+        "source_url": "https://www.herospeed.net/en/ver/IPC/NOVATEK_IPC/TV12_32NR_BVHB_V4.0.0.260907_R2.zip"
       }
     ]
   },
