@@ -298,6 +298,19 @@
       }
     ]
   },
+  "FGV8_16NR_BVHB_V3.1.0.260911_R4": {
+    "revisions": [
+      {
+        "archived_at": "2026-10-19T10:47:47Z",
+        "asset": "FGV8_16NR_BVHB_V3.1.0.260911_R4.zip",
+        "asset_url": "https://github.com/OpenIPC/herospeedupdates/releases/download/firmware-archive/FGV8_16NR_BVHB_V3.1.0.260911_R4.zip",
+        "last_modified": "Thu, 15 Oct 2026 11:45:40 GMT",
+        "sha256": "ab16cbb7c00b78adad4cfa64375741951b3e9d71e7acbc4bd9a66f7608ca0c7c",
+        "size": 11309715,
+        "source_url": "https://www.herospeed.net/en/ver/IPC/Fuhan/FGV8_16NR_BVHB_V3.1.0.260911_R4.zip"
+      }
+    ]
+  },
   "FH8830_AR0330_FISHEYE_BD_W_9.1.2.1": {
     "revisions": [
       {
@@ -402,6 +415,19 @@
       }
     ]
   },
+  "FW4_16NR_BVHB_V3.1.0.260804_R4": {
+    "revisions": [
+      {
+        "archived_at": "2026-10-19T10:47:55Z",
+        "asset": "FW4_16NR_BVHB_V3.1.0.260804_R4.zip",
+        "asset_url": "https://github.com/OpenIPC/herospeedupdates/releases/download/firmware-archive/FW4_16NR_BVHB_V3.1.0.260804_R4.zip",
+        "last_modified": "Thu, 15 Oct 2026 11:48:23 GMT",
+        "sha256": "931468e6eaab699a542d7a11369d8c3b96b814833aae46593ad08277cb23309a",
+        "size": 11842510,
+        "source_url": "https://www.herospeed.net/en/ver/IPC/Fuhan/FW4_16NR_BVHB_V3.1.0.260804_R4.zip"
+      }
+    ]
+  },
   "GC2_16NR_ALHB_V2.0.5.250726_R2": {
     "revisions": [
       {
@@ -428,6 +454,19 @@
       }
     ]
   },
+  "GL5_16NR_ALHB_V2.0.3.260707_R1": {
+    "revisions": [
+      {
+        "archived_at": "2026-10-19T10:47:59Z",
+        "asset": "GL5_16NR_ALHB_V2.0.3.260707_R1.zip",
+        "asset_url": "https://github.com/OpenIPC/herospeedupdates/releases/download/firmware-archive/GL5_16NR_ALHB_V2.0.3.260707_R1.zip",
+        "last_modified": "Thu, 15 Oct 2026 11:54:05 GMT",
+        "sha256": "743753e0d4a43fc190a25e3cf92d3a54178bbe1ec850c99429255eebd47ffaec",
+        "size": 11358645,
+        "source_url": "https://www.herospeed.net/en/ver/IPC/GK/GL5_16NR_ALHB_V2.0.3.260707_R1.zip"
+      }
+    ]
+  },
   "HFG2_16NR_BVHB_V2.0.2.250730_R2": {
     "revisions": [
       {
@@ -438,6 +477,19 @@
         "sha256": "fa3afed30d0ab605b022b0159d7888c7c75e5cf5f8a2c5fc1259e010d6313653",
         "size": 12038344,
         "source_url": "https://www.herospeed.net/en/ver/IPC/Fuhan/HFG2_16NR_BVHB_V2.0.2.250730_R2.zip"
+      }
+    ]
+  },
+  "HFG2_16NR_BVHB_V3.1.0.260731_R3": {
+    "revisions": [
+      {
+        "archived_at": "2026-10-19T10:48:03Z",
+        "asset": "HFG2_16NR_BVHB_V3.1.0.260731_R3.zip",
+        "asset_url": "https://github.com/OpenIPC/herospeedupdates/releases/download/firmware-archive/HFG2_16NR_BVHB_V3.1.0.260731_R3.zip",
+        "last_modified": "Thu, 15 Oct 2026 11:49:16 GMT",
+        "sha256": "22925a1e16d2b92e2dd284bf089edc06605991dec2d2711e7637ed20a8fcdd76",
+        "size": 11898290,
+        "source_url": "https://www.herospeed.net/en/ver/IPC/Fuhan/HFG2_16NR_BVHB_V3.1.0.260731_R3.zip"
       }
     ]
   },
@@ -467,6 +519,32 @@
       }
     ]
   },
+  "KL12_1ND_BVHB_V3.1.0.260808_R5": {
+    "revisions": [
+      {
+        "archived_at": "2026-10-19T10:48:08Z",
+        "asset": "KL12_1ND_BVHB_V3.1.0.260808_R5.zip",
+        "asset_url": "https://github.com/OpenIPC/herospeedupdates/releases/download/firmware-archive/KL12_1ND_BVHB_V3.1.0.260808_R5.zip",
+        "last_modified": "Thu, 15 Oct 2026 09:18:39 GMT",
+        "sha256": "ffb1b9078229fa6f71b99c23434795ddaf04e8029229ee6c4c3c6914125068e1",
+        "size": 32647882,
+        "source_url": "https://www.herospeed.net/en/ver/IPC/NOVATEK_IPC/KL12_1ND_BVHB_V3.1.0.260808_R5.zip"
+      }
+    ]
+  },
+  "KL12_32NR_BVHB_V4.0.0.260923_R2": {
+    "revisions": [
+      {
+        "archived_at": "2026-10-19T10:48:13Z",
+        "asset": "KL12_32NR_BVHB_V4.0.0.260923_R2.zip",
+        "asset_url": "https://github.com/OpenIPC/herospeedupdates/releases/download/firmware-archive/KL12_32NR_BVHB_V4.0.0.260923_R2.zip",
+        "last_modified": "Thu, 15 Oct 2026 09:25:20 GMT",
+        "sha256": "8b6329e9bdb53966932c34d80b50a64d30a68a93a1297137b0bc24e526707691",
+        "size": 25440797,
+        "source_url": "https://www.herospeed.net/en/ver/IPC/NOVATEK_IPC/KL12_32NR_BVHB_V4.0.0.260923_R2.zip"
+      }
+    ]
+  },
   "KL2_1ND_BVHB_V2.0.1.260325_R1": {
     "revisions": [
       {
@@ -480,6 +558,45 @@
       }
     ]
   },
+  "KL2_1ND_BVHB_V3.1.0.260731_R2": {
+    "revisions": [
+      {
+        "archived_at": "2026-10-19T10:48:18Z",
+        "asset": "KL2_1ND_BVHB_V3.1.0.260731_R2.zip",
+        "asset_url": "https://github.com/OpenIPC/herospeedupdates/releases/download/firmware-archive/KL2_1ND_BVHB_V3.1.0.260731_R2.zip",
+        "last_modified": "Thu, 15 Oct 2026 10:45:53 GMT",
+        "sha256": "86da240306aa04ee2c1e3fac57f7ed32580f56ee0c7eecb3cbe34cdb2701275c",
+        "size": 21089997,
+        "source_url": "https://www.herospeed.net/en/ver/IPC/NOVATEK_IPC/KL2_1ND_BVHB_V3.1.0.260731_R2.zip"
+      }
+    ]
+  },
+  "KL2_32NR_BVHB_V4.0.1.261014_R4": {
+    "revisions": [
+      {
+        "archived_at": "2026-10-19T10:48:23Z",
+        "asset": "KL2_32NR_BVHB_V4.0.1.261014_R4.zip",
+        "asset_url": "https://github.com/OpenIPC/herospeedupdates/releases/download/firmware-archive/KL2_32NR_BVHB_V4.0.1.261014_R4.zip",
+        "last_modified": "Thu, 15 Oct 2026 10:45:23 GMT",
+        "sha256": "481bc1a60bdf6dd5acf4b602d98da457312f29bac46197ffdd8ef4ceb9b8e32f",
+        "size": 16040934,
+        "source_url": "https://www.herospeed.net/en/ver/IPC/NOVATEK_IPC/KL2_32NR_BVHB_V4.0.1.261014_R4.zip"
+      }
+    ]
+  },
+  "KL5H_32NR_BVHB_V2.0.0.260811_R3": {
+    "revisions": [
+      {
+        "archived_at": "2026-10-19T10:48:28Z",
+        "asset": "KL5H_32NR_BVHB_V2.0.0.260811_R3.zip",
+        "asset_url": "https://github.com/OpenIPC/herospeedupdates/releases/download/firmware-archive/KL5H_32NR_BVHB_V2.0.0.260811_R3.zip",
+        "last_modified": "Thu, 15 Oct 2026 10:58:44 GMT",
+        "sha256": "cff3ecfe5680b8ff3dcbd66da98be59beaad5c773cb7edda8eafe111d958cab0",
+        "size": 25686621,
+        "source_url": "https://www.herospeed.net/en/ver/IPC/NOVATEK_IPC/KL5H_32NR_BVHB_V2.0.0.260811_R3.zip"
+      }
+    ]
+  },
   "KL5_1ND_BVHB_V2.0.13.260306_R2": {
     "revisions": [
       {
@@ -490,6 +607,19 @@
         "sha256": "47e6f1b2308586b40a6e10b15e5336544e5bbbdf5abcced5b757df992b57362a",
         "size": 21246979,
         "source_url": "https://www.herospeed.net/en/ver/IPC/NOVATEK_IPC/KL5_1ND_BVHB_V2.0.13.260306_R2.zip"
+      }
+    ]
+  },
+  "KL5_1ND_BVHB_V3.1.0.260901_R1": {
+    "revisions": [
+      {
+        "archived_at": "2026-10-19T10:48:33Z",
+        "asset": "KL5_1ND_BVHB_V3.1.0.260901_R1.zip",
+        "asset_url": "https://github.com/OpenIPC/herospeedupdates/releases/download/firmware-archive/KL5_1ND_BVHB_V3.1.0.260901_R1.zip",
+        "last_modified": "Thu, 15 Oct 2026 10:51:20 GMT",
+        "sha256": "9c6c656da2f26e36cc76c6616aec93dc799a432fdd6aecfed58fc7afe2992f20",
+        "size": 22313997,
+        "source_url": "https://www.herospeed.net/en/ver/IPC/NOVATEK_IPC/KL5_1ND_BVHB_V3.1.0.260901_R1.zip"
       }
     ]
   },
