@@ -6,9 +6,9 @@
       "series": "Eco",
       "resolution": "2MP",
       "solution": "FC2R/FC2RC",
-      "build": "FC2_8NR_BVHB_V2.0.2.250902_R4",
-      "time": "2025-11-04 14:48:58",
-      "url": "https://www.herospeed.net/en/ver/IPC/Fuhan/FC2_8NR_BVHB_V2.0.2.250902_R4.zip",
+      "build": "FC2_8NR_BVHB_V2.0.2.260923_R1",
+      "time": "2026-10-17 14:46:30",
+      "url": "https://www.herospeed.net/en/ver/IPC/Fuhan/FC2_8NR_BVHB_V2.0.2.260923_R1.zip",
       "module": "FC2R"
     },
     {
@@ -20,6 +20,16 @@
       "time": "2026-06-01 16:59:19",
       "url": "https://www.herospeed.net/en/ver/IPC/Fuhan/FC2H_8NR_BVHB_V1.0.0.260508_R3.zip",
       "module": "FC2R"
+    },
+    {
+      "list": "current",
+      "series": "Eco",
+      "resolution": "2MP",
+      "solution": "RC2R/RC2RC",
+      "build": "RC2_16NR_BVHB_V3.1.1.260915_R1",
+      "time": "2026-10-17 16:09:07",
+      "url": "https://www.herospeed.net/en/ver/IPC/RK/RC2_16NR_BVHB_V3.1.1.260915_R1.zip",
+      "module": "RC2R"
     },
     {
       "list": "current",
@@ -44,61 +54,141 @@
     {
       "list": "current",
       "series": "Eco",
+      "resolution": "4/5MP",
+      "solution": "RC4R/RC4RC",
+      "build": "RC4_16NR_BVHB_V3.1.1.260915_R1",
+      "time": "2026-10-17 16:09:26",
+      "url": "https://www.herospeed.net/en/ver/IPC/RK/RC4_16NR_BVHB_V3.1.1.260915_R1.zip",
+      "module": "RC4R"
+    },
+    {
+      "list": "current",
+      "series": "Eco",
       "resolution": "8MP",
       "solution": "FC8R/FC8RC",
-      "build": "FC8_8NR_BVHB_V2.0.0.251013_R2",
-      "time": "2025-11-10 16:45:13",
-      "url": "https://www.herospeed.net/en/ver/IPC/Fuhan/FC8_8NR_BVHB_V2.0.0.251013_R2.zip",
+      "build": "FC8_8NR_BVHB_V2.0.0.260721_R1",
+      "time": "2026-10-17 14:47:00",
+      "url": "https://www.herospeed.net/en/ver/IPC/Fuhan/FC8_8NR_BVHB_V2.0.0.260721_R1.zip",
       "module": "FC8R"
     },
     {
       "list": "current",
       "series": "Value",
       "resolution": "2MP",
-      "solution": "FCV2RC",
+      "solution": "FCV2R/FCV2RC",
       "build": "FCV2_16NR_BVHB_V2.0.1.260518_R1",
       "time": "2026-06-01 17:00:15",
       "url": "https://www.herospeed.net/en/ver/IPC/Fuhan/FCV2_16NR_BVHB_V2.0.1.260518_R1.zip",
-      "module": "FCV2RC"
+      "module": "FCV2R"
+    },
+    {
+      "list": "current",
+      "series": "Value",
+      "resolution": "2MP",
+      "solution": "FCV2R/FCV2RC",
+      "build": "FCV2H_16NR_BVHB_V1.0.0.260511_R4",
+      "time": "2026-06-01 16:59:58",
+      "url": "https://www.herospeed.net/en/ver/IPC/Fuhan/FCV2H_16NR_BVHB_V1.0.0.260511_R4.zip",
+      "module": "FCV2R"
+    },
+    {
+      "list": "current",
+      "series": "Value",
+      "resolution": "2MP",
+      "solution": "FCV2R/FCV2RC",
+      "build": "FCV2P_16NR_BVHB_V2.0.1.260709_R1",
+      "time": "2026-10-17 14:47:48",
+      "url": "https://www.herospeed.net/en/ver/IPC/Fuhan/FCV2P_16NR_BVHB_V2.0.1.260709_R1.zip",
+      "module": "FCV2R"
+    },
+    {
+      "list": "current",
+      "series": "Value",
+      "resolution": "2MP",
+      "solution": "FGV2R/FGV2RC",
+      "build": "FGV2_16NR_BVHB_V3.1.0.260911_R4",
+      "time": "2026-10-17 14:48:19",
+      "url": "https://www.herospeed.net/en/ver/IPC/Fuhan/FGV2_16NR_BVHB_V3.1.0.260911_R4.zip",
+      "module": "FGV2R"
     },
     {
       "list": "current",
       "series": "Value",
       "resolution": "2MP",
       "solution": "KL2R/KL2RC",
-      "build": "KL2_1ND_BVHB_V2.0.1.260325_R1",
-      "time": "2026-06-01 17:00:36",
-      "url": "https://www.herospeed.net/en/ver/IPC/NOVATEK_IPC/KL2_1ND_BVHB_V2.0.1.260325_R1.zip",
+      "build": "KL2_1ND_BVHB_V3.1.0.260731_R2",
+      "time": "2026-10-17 16:09:52",
+      "url": "https://www.herospeed.net/en/ver/IPC/NOVATEK_IPC/KL2_1ND_BVHB_V3.1.0.260731_R2.zip",
       "module": "KL2R"
     },
     {
       "list": "current",
       "series": "Value",
       "resolution": "2MP",
-      "solution": "FCV2RC",
-      "build": "FCV2H_16NR_BVHB_V1.0.0.260511_R4",
-      "time": "2026-06-01 16:59:58",
-      "url": "https://www.herospeed.net/en/ver/IPC/Fuhan/FCV2H_16NR_BVHB_V1.0.0.260511_R4.zip",
-      "module": "FCV2RC"
+      "solution": "KL2R/KL2RC",
+      "build": "KL2_32NR_BVHB_V4.0.1.261014_R4",
+      "time": "2026-10-17 16:10:17",
+      "url": "https://www.herospeed.net/en/ver/IPC/NOVATEK_IPC/KL2_32NR_BVHB_V4.0.1.261014_R4.zip",
+      "module": "KL2R"
     },
     {
       "list": "current",
       "series": "Value",
       "resolution": "4/5MP",
-      "solution": "FCV5RC",
+      "solution": "FCV5R/FCV5RC",
       "build": "FCV5_16NR_BVHB_V2.0.0.260106_R2",
       "time": "2026-01-20 11:03:26",
       "url": "https://www.herospeed.net/en/ver/IPC/Fuhan/FCV5_16NR_BVHB_V2.0.0.260106_R2.zip",
-      "module": "FCV5RC"
+      "module": "FCV5R"
+    },
+    {
+      "list": "current",
+      "series": "Value",
+      "resolution": "4/5MP",
+      "solution": "FCV5R/FCV5RC",
+      "build": "FCV5P_16NR_BVHB_V2.0.0.260709_R1",
+      "time": "2026-10-17 14:49:27",
+      "url": "https://www.herospeed.net/en/ver/IPC/Fuhan/FCV5P_16NR_BVHB_V2.0.0.260709_R1.zip",
+      "module": "FCV5R"
+    },
+    {
+      "list": "current",
+      "series": "Value",
+      "resolution": "4/5MP",
+      "solution": "FGV5R/FGV5RC",
+      "build": "FGV5_16NR_BVHB_V3.1.0.260918_R4",
+      "time": "2026-10-17 14:49:48",
+      "url": "https://www.herospeed.net/en/ver/IPC/Fuhan/FGV5_16NR_BVHB_V3.1.0.260918_R4.zip",
+      "module": "FGV5R"
     },
     {
       "list": "current",
       "series": "Value",
       "resolution": "4/5MP",
       "solution": "KL5R/KL5RC",
-      "build": "KL5_1ND_BVHB_V2.0.13.260306_R2",
-      "time": "2026-04-02 14:18:15",
-      "url": "https://www.herospeed.net/en/ver/IPC/NOVATEK_IPC/KL5_1ND_BVHB_V2.0.13.260306_R2.zip",
+      "build": "KL5_1ND_BVHB_V3.1.0.260901_R1",
+      "time": "2026-10-17 16:10:32",
+      "url": "https://www.herospeed.net/en/ver/IPC/NOVATEK_IPC/KL5_1ND_BVHB_V3.1.0.260901_R1.zip",
+      "module": "KL5R"
+    },
+    {
+      "list": "current",
+      "series": "Value",
+      "resolution": "4/5MP",
+      "solution": "KL5R/KL5RC",
+      "build": "KL5_32NR_BVHB_V4.0.0.260920_R2",
+      "time": "2026-10-17 16:11:31",
+      "url": "https://www.herospeed.net/en/ver/IPC/NOVATEK_IPC/KL5_32NR_BVHB_V4.0.0.260920_R2.zip",
+      "module": "KL5R"
+    },
+    {
+      "list": "current",
+      "series": "Value",
+      "resolution": "4/5MP",
+      "solution": "KL5R/KL5RC",
+      "build": "KL5H_32NR_BVHB_V2.0.0.260811_R3",
+      "time": "2026-10-17 16:11:49",
+      "url": "https://www.herospeed.net/en/ver/IPC/NOVATEK_IPC/KL5H_32NR_BVHB_V2.0.0.260811_R3.zip",
       "module": "KL5R"
     },
     {
@@ -106,29 +196,69 @@
       "series": "Value",
       "resolution": "4/5MP",
       "solution": "TL5R/TL5RC",
-      "build": "TL5_1ND_BVHB_V2.0.0.260417_R5",
-      "time": "2026-06-01 17:09:20",
-      "url": "https://www.herospeed.net/en/ver/IPC/NOVATEK_IPC/TL5_1ND_BVHB_V2.0.0.260417_R5.zip",
+      "build": "TL5_1ND_BVHB_V3.1.0.260918_R1",
+      "time": "2026-10-17 16:12:23",
+      "url": "https://www.herospeed.net/en/ver/IPC/NOVATEK_IPC/TL5_1ND_BVHB_V3.1.0.260918_R1.zip",
       "module": "TL5R"
     },
     {
       "list": "current",
       "series": "Value",
+      "resolution": "4/5MP",
+      "solution": "TL5R/TL5RC",
+      "build": "TL5_32NR_BVHB_V4.0.0.260827_R6",
+      "time": "2026-10-17 16:12:44",
+      "url": "https://www.herospeed.net/en/ver/IPC/NOVATEK_IPC/TL5_32NR_BVHB_V4.0.0.260827_R6.zip",
+      "module": "TL5R"
+    },
+    {
+      "list": "current",
+      "series": "Value",
+      "resolution": "4/5MP",
+      "solution": "TV4RC",
+      "build": "TV4_32NR_BVHB_V4.0.0.260827_R4",
+      "time": "2026-10-17 16:12:06",
+      "url": "https://www.herospeed.net/en/ver/IPC/NOVATEK_IPC/TV4_32NR_BVHB_V4.0.0.260827_R4.zip",
+      "module": "TV4RC"
+    },
+    {
+      "list": "current",
+      "series": "Value",
       "resolution": "8MP",
-      "solution": "FCV8RC",
-      "build": "FCV8_16NR_BVHB_V2.0.0.260106_R2",
-      "time": "2026-01-20 11:04:13",
-      "url": "https://www.herospeed.net/en/ver/IPC/Fuhan/FCV8_16NR_BVHB_V2.0.0.260106_R2.zip",
-      "module": "FCV8RC"
+      "solution": "FCV8R/FCV8RC",
+      "build": "FCV8_16NR_BVHB_V2.0.0.260730_R1",
+      "time": "2026-10-17 14:50:16",
+      "url": "https://www.herospeed.net/en/ver/IPC/Fuhan/FCV8_16NR_BVHB_V2.0.0.260730_R1.zip",
+      "module": "FCV8R"
+    },
+    {
+      "list": "current",
+      "series": "Value",
+      "resolution": "8MP",
+      "solution": "FGV8R/FGV8RC",
+      "build": "FGV8_16NR_BVHB_V3.1.0.260911_R4",
+      "time": "2026-10-17 14:50:42",
+      "url": "https://www.herospeed.net/en/ver/IPC/Fuhan/FGV8_16NR_BVHB_V3.1.0.260911_R4.zip",
+      "module": "FGV8R"
     },
     {
       "list": "current",
       "series": "Value",
       "resolution": "8MP",
       "solution": "KL8R/KL8RC",
-      "build": "KL8_1ND_BVHB_V2.0.12.260306_R1",
-      "time": "2026-04-02 14:20:22",
-      "url": "https://www.herospeed.net/en/ver/IPC/NOVATEK_IPC/KL8_1ND_BVHB_V2.0.12.260306_R1.zip",
+      "build": "KL8_1ND_BVHB_V3.1.0.260910_R1",
+      "time": "2026-10-17 16:13:03",
+      "url": "https://www.herospeed.net/en/ver/IPC/NOVATEK_IPC/KL8_1ND_BVHB_V3.1.0.260910_R1.zip",
+      "module": "KL8R"
+    },
+    {
+      "list": "current",
+      "series": "Value",
+      "resolution": "8MP",
+      "solution": "KL8R/KL8RC",
+      "build": "KL8_32NR_BVHB_V4.0.0.260918_R1",
+      "time": "2026-10-17 16:13:24",
+      "url": "https://www.herospeed.net/en/ver/IPC/NOVATEK_IPC/KL8_32NR_BVHB_V4.0.0.260918_R1.zip",
       "module": "KL8R"
     },
     {
@@ -136,20 +266,60 @@
       "series": "Value",
       "resolution": "8MP",
       "solution": "TL8R/TL8RC",
-      "build": "TL8_1ND_BVHB_V2.0.1.260415_R1",
-      "time": "2026-06-01 17:09:48",
-      "url": "https://www.herospeed.net/en/ver/IPC/NOVATEK_IPC/TL8_1ND_BVHB_V2.0.1.260415_R1.zip",
+      "build": "TL8_1ND_BVHB_V3.1.1.260911_R1",
+      "time": "2026-10-17 16:13:43",
+      "url": "https://www.herospeed.net/en/ver/IPC/NOVATEK_IPC/TL8_1ND_BVHB_V3.1.1.260911_R1.zip",
       "module": "TL8R"
+    },
+    {
+      "list": "current",
+      "series": "Value",
+      "resolution": "8MP",
+      "solution": "TL8R/TL8RC",
+      "build": "TL8_32NR_BVHB_V4.0.1.261013_R1",
+      "time": "2026-10-17 16:14:02",
+      "url": "https://www.herospeed.net/en/ver/IPC/NOVATEK_IPC/TL8_32NR_BVHB_V4.0.1.261013_R1.zip",
+      "module": "TL8R"
+    },
+    {
+      "list": "current",
+      "series": "Value",
+      "resolution": "8MP",
+      "solution": "TV8RC",
+      "build": "TV8_32NR_BVHB_V4.0.0.260907_R3",
+      "time": "2026-10-17 16:14:25",
+      "url": "https://www.herospeed.net/en/ver/IPC/NOVATEK_IPC/TV8_32NR_BVHB_V4.0.0.260907_R3.zip",
+      "module": "TV8RC"
     },
     {
       "list": "current",
       "series": "Value",
       "resolution": "12MP",
       "solution": "KL12RC",
-      "build": "KL12_1ND_BVHB_V2.0.10.251009_R5",
-      "time": "2025-11-04 15:38:51",
-      "url": "https://www.herospeed.net/en/ver/IPC/NOVATEK_IPC/KL12_1ND_BVHB_V2.0.10.251009_R5.zip",
+      "build": "KL12_1ND_BVHB_V3.1.0.260808_R5",
+      "time": "2026-10-17 16:14:41",
+      "url": "https://www.herospeed.net/en/ver/IPC/NOVATEK_IPC/KL12_1ND_BVHB_V3.1.0.260808_R5.zip",
       "module": "KL12RC"
+    },
+    {
+      "list": "current",
+      "series": "Value",
+      "resolution": "12MP",
+      "solution": "KL12RC",
+      "build": "KL12_32NR_BVHB_V4.0.0.260923_R2",
+      "time": "2026-10-17 16:15:00",
+      "url": "https://www.herospeed.net/en/ver/IPC/NOVATEK_IPC/KL12_32NR_BVHB_V4.0.0.260923_R2.zip",
+      "module": "KL12RC"
+    },
+    {
+      "list": "current",
+      "series": "Value",
+      "resolution": "12MP",
+      "solution": "TV12RC",
+      "build": "TV12_32NR_BVHB_V4.0.0.260907_R2",
+      "time": "2026-10-17 16:15:25",
+      "url": "https://www.herospeed.net/en/ver/IPC/NOVATEK_IPC/TV12_32NR_BVHB_V4.0.0.260907_R2.zip",
+      "module": "TV12RC"
     },
     {
       "list": "current",
@@ -166,9 +336,9 @@
       "series": "Pro",
       "resolution": "4/5MP",
       "solution": "BRL5R/BRL5RC(NAND)",
-      "build": "BRL5_2ND_BVHB_V2.0.0.260415_R3",
-      "time": "2026-06-01 17:07:45",
-      "url": "https://www.herospeed.net/en/ver/IPC/RK/BRL5_2ND_BVHB_V2.0.0.260415_R3.zip",
+      "build": "BRL5_2ND_BVHB_V4.0.0.260911_R3",
+      "time": "2026-10-17 16:21:53",
+      "url": "https://www.herospeed.net/en/ver/IPC/RK/BRL5_2ND_BVHB_V4.0.0.260911_R3.zip",
       "module": "BRL5R"
     },
     {
@@ -186,9 +356,9 @@
       "series": "Pro",
       "resolution": "8MP",
       "solution": "BRL8R/BRL8RC(NAND)",
-      "build": "BRL8_2ND_BVHB_V2.0.0.260420_R2",
-      "time": "2026-06-01 17:08:08",
-      "url": "https://www.herospeed.net/en/ver/IPC/RK/BRL8_2ND_BVHB_V2.0.0.260420_R2.zip",
+      "build": "BRL8_2ND_BVHB_V4.0.0.260911_R2",
+      "time": "2026-10-17 16:22:13",
+      "url": "https://www.herospeed.net/en/ver/IPC/RK/BRL8_2ND_BVHB_V4.0.0.260911_R2.zip",
       "module": "BRL8R"
     },
     {
@@ -196,9 +366,9 @@
       "series": "Wi-Fi IPC",
       "resolution": "2MP",
       "solution": "HFG200W",
-      "build": "HFG2_16NR_BVHB_V2.0.2.250730_R2",
-      "time": "2025-11-04 15:29:42",
-      "url": "https://www.herospeed.net/en/ver/IPC/Fuhan/HFG2_16NR_BVHB_V2.0.2.250730_R2.zip",
+      "build": "HFG2_16NR_BVHB_V3.1.0.260731_R3",
+      "time": "2026-10-17 14:51:10",
+      "url": "https://www.herospeed.net/en/ver/IPC/Fuhan/HFG2_16NR_BVHB_V3.1.0.260731_R3.zip",
       "module": "HFG200W"
     },
     {
@@ -206,9 +376,9 @@
       "series": "Wi-Fi IPC",
       "resolution": "4/5MP",
       "solution": "FG400W",
-      "build": "FG4_16NR_BVHB_V2.0.4.260107_R3",
-      "time": "2026-01-20 11:04:41",
-      "url": "https://www.herospeed.net/en/ver/IPC/Fuhan/FG4_16NR_BVHB_V2.0.4.260107_R3.zip",
+      "build": "FG4_16NR_BVHB_V3.1.0.260804_R4",
+      "time": "2026-10-17 14:51:26",
+      "url": "https://www.herospeed.net/en/ver/IPC/Fuhan/FG4_16NR_BVHB_V3.1.0.260804_R4.zip",
       "module": "FG400W"
     },
     {
@@ -216,9 +386,9 @@
       "series": "Wi-Fi IPC",
       "resolution": "4/5MP",
       "solution": "FW400W",
-      "build": "FW4_16NR_BVHB_V2.0.3.250730_R2",
-      "time": "2025-11-04 15:35:25",
-      "url": "https://www.herospeed.net/en/ver/IPC/Fuhan/FW4_16NR_BVHB_V2.0.3.250730_R2.zip",
+      "build": "FW4_16NR_BVHB_V3.1.0.260804_R4",
+      "time": "2026-10-17 14:51:45",
+      "url": "https://www.herospeed.net/en/ver/IPC/Fuhan/FW4_16NR_BVHB_V3.1.0.260804_R4.zip",
       "module": "FW400W"
     },
     {
@@ -226,9 +396,29 @@
       "series": "Active Deterrence",
       "resolution": "4/5MP",
       "solution": "KL5AD",
-      "build": "KL5_1ND_BVHB_V2.0.13.260306_R2",
-      "time": "2026-04-02 14:18:38",
-      "url": "https://www.herospeed.net/en/ver/IPC/NOVATEK_IPC/KL5_1ND_BVHB_V2.0.13.260306_R2.zip",
+      "build": "KL5_1ND_BVHB_V3.1.0.260901_R1",
+      "time": "2026-10-17 16:15:45",
+      "url": "https://www.herospeed.net/en/ver/IPC/NOVATEK_IPC/KL5_1ND_BVHB_V3.1.0.260901_R1.zip",
+      "module": "KL5AD"
+    },
+    {
+      "list": "current",
+      "series": "Active Deterrence",
+      "resolution": "4/5MP",
+      "solution": "KL5AD",
+      "build": "KL5_32NR_BVHB_V4.0.0.260920_R2",
+      "time": "2026-10-17 16:16:01",
+      "url": "https://www.herospeed.net/en/ver/IPC/NOVATEK_IPC/KL5_32NR_BVHB_V4.0.0.260920_R2.zip",
+      "module": "KL5AD"
+    },
+    {
+      "list": "current",
+      "series": "Active Deterrence",
+      "resolution": "4/5MP",
+      "solution": "KL5AD",
+      "build": "KL5H_32NR_BVHB_V2.0.0.260811_R3",
+      "time": "2026-10-17 16:17:43",
+      "url": "https://www.herospeed.net/en/ver/IPC/NOVATEK_IPC/KL5H_32NR_BVHB_V2.0.0.260811_R3.zip",
       "module": "KL5AD"
     },
     {
@@ -236,9 +426,19 @@
       "series": "Active Deterrence",
       "resolution": "8MP",
       "solution": "KL8AD",
-      "build": "KL8_1ND_BVHB_V2.0.12.260306_R1",
-      "time": "2026-04-02 14:19:57",
-      "url": "https://www.herospeed.net/en/ver/IPC/NOVATEK_IPC/KL8_1ND_BVHB_V2.0.12.260306_R1.zip",
+      "build": "KL8_1ND_BVHB_V3.1.0.260910_R1",
+      "time": "2026-10-17 16:17:58",
+      "url": "https://www.herospeed.net/en/ver/IPC/NOVATEK_IPC/KL8_1ND_BVHB_V3.1.0.260910_R1.zip",
+      "module": "KL8AD"
+    },
+    {
+      "list": "current",
+      "series": "Active Deterrence",
+      "resolution": "8MP",
+      "solution": "KL8AD",
+      "build": "KL8_32NR_BVHB_V4.0.0.260918_R1",
+      "time": "2026-10-17 16:18:16",
+      "url": "https://www.herospeed.net/en/ver/IPC/NOVATEK_IPC/KL8_32NR_BVHB_V4.0.0.260918_R1.zip",
       "module": "KL8AD"
     },
     {
@@ -256,10 +456,30 @@
       "series": "PTZ",
       "resolution": "4/5MP",
       "solution": "GL500",
-      "build": "GL5_16NR_ALHB_V2.0.3.250726_R2",
-      "time": "2025-11-04 15:15:34",
-      "url": "https://www.herospeed.net/en/ver/IPC/GK/GL5_16NR_ALHB_V2.0.3.250726_R2.zip",
+      "build": "GL5_16NR_ALHB_V2.0.3.260707_R1",
+      "time": "2026-10-17 16:22:34",
+      "url": "https://www.herospeed.net/en/ver/IPC/GK/GL5_16NR_ALHB_V2.0.3.260707_R1.zip",
       "module": "GL500"
+    },
+    {
+      "list": "current",
+      "series": "PTZ",
+      "resolution": "4/5MP",
+      "solution": "KP5",
+      "build": "KP5_1ND_BVHB_V3.1.0.260811_R3",
+      "time": "2026-10-17 16:18:36",
+      "url": "https://www.herospeed.net/en/ver/IPC/NOVATEK_IPC/KP5_1ND_BVHB_V3.1.0.260811_R3.zip",
+      "module": "KP5"
+    },
+    {
+      "list": "current",
+      "series": "PTZ",
+      "resolution": "4/5MP",
+      "solution": "KP5",
+      "build": "KP5_32NR_BVHB_V4.0.1.261010_R2",
+      "time": "2026-10-17 16:18:51",
+      "url": "https://www.herospeed.net/en/ver/IPC/NOVATEK_IPC/KP5_32NR_BVHB_V4.0.1.261010_R2.zip",
+      "module": "KP5"
     },
     {
       "list": "current",
@@ -283,22 +503,42 @@
     },
     {
       "list": "current",
+      "series": "Fisheye",
+      "resolution": "4/5MP",
+      "solution": "NL5",
+      "build": "NL5_2ND_BVHB_V4.0.0.260928_R3",
+      "time": "2026-10-17 16:19:12",
+      "url": "https://www.herospeed.net/en/ver/IPC/NOVATEK_IPC/NL5_2ND_BVHB_V4.0.0.260928_R3.zip",
+      "module": "NL5"
+    },
+    {
+      "list": "current",
       "series": "Panoramic Dual lens",
       "resolution": "8MP",
       "solution": "KS8DP",
-      "build": "KS8_1ND_BVHB_V2.0.0.260410_R5",
-      "time": "2026-06-01 17:01:00",
-      "url": "https://www.herospeed.net/en/ver/IPC/NOVATEK_IPC/KS8_1ND_BVHB_V2.0.0.260410_R5.zip",
+      "build": "KS8_1ND_BVHB_V4.0.1.261010_R2",
+      "time": "2026-10-17 16:19:39",
+      "url": "https://www.herospeed.net/en/ver/IPC/NOVATEK_IPC/KS8_1ND_BVHB_V4.0.1.261010_R2.zip",
       "module": "KS8DP"
+    },
+    {
+      "list": "current",
+      "series": "Panoramic Dual lens",
+      "resolution": "8MP",
+      "solution": "TS8DP",
+      "build": "TS8_32NR_BVHB_V3.1.0.260910_R5",
+      "time": "2026-10-17 16:20:11",
+      "url": "https://www.herospeed.net/en/ver/IPC/NOVATEK_IPC/TS8_32NR_BVHB_V3.1.0.260910_R5.zip",
+      "module": "TS8DP"
     },
     {
       "list": "current",
       "series": "Panoramic Dual lens",
       "resolution": "16MP",
       "solution": "KS16DP",
-      "build": "KS16_1ND_BVHB_V1.0.0.260411_R5",
-      "time": "2026-06-01 17:01:15",
-      "url": "https://www.herospeed.net/en/ver/IPC/NOVATEK_IPC/KS16_1ND_BVHB_V1.0.0.260411_R5.zip",
+      "build": "KS16_1ND_BVHB_V4.0.0.260918_R3",
+      "time": "2026-10-17 16:19:52",
+      "url": "https://www.herospeed.net/en/ver/IPC/NOVATEK_IPC/KS16_1ND_BVHB_V4.0.0.260918_R3.zip",
       "module": "KS16DP"
     },
     {
@@ -316,9 +556,9 @@
       "series": "AI-ISP",
       "resolution": "4/5MP",
       "solution": "NP4AC",
-      "build": "NP4_2ND_BVHB_V2.0.0.260521_R3",
-      "time": "2026-06-01 17:04:02",
-      "url": "https://www.herospeed.net/en/ver/IPC/NOVATEK_IPC/NP4_2ND_BVHB_V2.0.0.260521_R3.zip",
+      "build": "NP4_2ND_BVHB_V4.0.0.260911_R2",
+      "time": "2026-10-17 16:20:29",
+      "url": "https://www.herospeed.net/en/ver/IPC/NOVATEK_IPC/NP4_2ND_BVHB_V4.0.0.260911_R2.zip",
       "module": "NP4AC"
     },
     {
@@ -326,9 +566,9 @@
       "series": "AI-ISP",
       "resolution": "8MP",
       "solution": "NP8AC",
-      "build": "NP8_2ND_BVHB_V2.0.0.260516_R8",
-      "time": "2026-06-01 17:04:39",
-      "url": "https://www.herospeed.net/en/ver/IPC/NOVATEK_IPC/NP8_2ND_BVHB_V2.0.0.260516_R8.zip",
+      "build": "NP8_2ND_BVHB_V4.0.0.260918_R2",
+      "time": "2026-10-17 16:20:43",
+      "url": "https://www.herospeed.net/en/ver/IPC/NOVATEK_IPC/NP8_2ND_BVHB_V4.0.0.260918_R2.zip",
       "module": "NP8AC"
     },
     {
@@ -336,9 +576,9 @@
       "series": "AI-ISP",
       "resolution": "12MP",
       "solution": "NP12AC",
-      "build": "NP12_2ND_BVHB_V2.0.0.260526_R2",
-      "time": "2026-06-01 17:04:57",
-      "url": "https://www.herospeed.net/en/ver/IPC/NOVATEK_IPC/NP12_2ND_BVHB_V2.0.0.260526_R2.zip",
+      "build": "NP12_2ND_BVHB_V4.0.0.260920_R2",
+      "time": "2026-10-17 16:20:57",
+      "url": "https://www.herospeed.net/en/ver/IPC/NOVATEK_IPC/NP12_2ND_BVHB_V4.0.0.260920_R2.zip",
       "module": "NP12AC"
     },
     {
@@ -346,9 +586,9 @@
       "series": "License Plate Recognition",
       "resolution": "4MP",
       "solution": "NL4RC",
-      "build": "NL4_2ND_BVHB_V2.0.0.260530_R2",
-      "time": "2026-06-01 17:05:19",
-      "url": "https://www.herospeed.net/en/ver/IPC/NOVATEK_IPC/NL4_2ND_BVHB_V2.0.0.260530_R2.zip",
+      "build": "NL4_2ND_BVHB_V4.0.0.261009_R3",
+      "time": "2026-10-17 16:21:15",
+      "url": "https://www.herospeed.net/en/ver/IPC/NOVATEK_IPC/NL4_2ND_BVHB_V4.0.0.261009_R3.zip",
       "module": "NL4RC"
     },
     {
