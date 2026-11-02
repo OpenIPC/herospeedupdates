@@ -857,6 +857,19 @@
       }
     ]
   },
+  "NL5_2ND_BVHB_V4.0.1.261030_R1": {
+    "revisions": [
+      {
+        "archived_at": "2026-11-02T13:29:19Z",
+        "asset": "NL5_2ND_BVHB_V4.0.1.261030_R1.zip",
+        "asset_url": "https://github.com/OpenIPC/herospeedupdates/releases/download/firmware-archive/NL5_2ND_BVHB_V4.0.1.261030_R1.zip",
+        "last_modified": "Sat, 31 Oct 2026 06:59:57 GMT",
+        "sha256": "e1c4e26965115ca8118cb150e6018d719f790e19359b9c05c0cd621e16c65b85",
+        "size": 40503207,
+        "source_url": "https://www.herospeed.net/en/ver/IPC/NOVATEK_IPC/NL5_2ND_BVHB_V4.0.1.261030_R1.zip"
+      }
+    ]
+  },
   "NP12_2ND_BVHB_V2.0.0.260526_R2": {
     "revisions": [
       {
